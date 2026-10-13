@@ -1,8 +1,8 @@
-package com.example.travelalert.common.model.service;
+package com.example.travelalert.common.service;
 
 import com.example.travelalert.common.model.Notification;
 import com.example.travelalert.common.model.NotificationType;
-import com.example.travelalert.common.model.repository.NotificationRepository;
+import com.example.travelalert.common.repository.NotificationRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

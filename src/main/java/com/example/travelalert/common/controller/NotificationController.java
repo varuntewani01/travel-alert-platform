@@ -1,8 +1,8 @@
 package com.example.travelalert.common.controller;
 
 import com.example.travelalert.common.model.NotificationType;
-import com.example.travelalert.common.model.repository.NotificationResponse;
-import com.example.travelalert.common.model.service.NotificationService;
+import com.example.travelalert.common.dto.NotificationResponse;
+import com.example.travelalert.common.service.NotificationService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

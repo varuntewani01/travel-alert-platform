@@ -1,4 +1,4 @@
-package com.example.travelalert.common.model.repository;
+package com.example.travelalert.common.repository;
 
 import com.example.travelalert.common.model.Notification;
 import com.example.travelalert.common.model.NotificationType;

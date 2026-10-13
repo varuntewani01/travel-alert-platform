@@ -1,4 +1,4 @@
-package com.example.travelalert.common.model.repository;
+package com.example.travelalert.common.dto;
 
 import com.example.travelalert.common.model.Notification;
 
